@@ -70,3 +70,5 @@
 7b # 校验码	
 7e # 标识位
 ```
+
+更多阅读请参考：http://blog.csdn.net/hylexus/article/details/54987786
